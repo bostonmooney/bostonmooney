@@ -20,8 +20,8 @@ I am also passionate about solving business challenges, which led me to develop 
 
 ## Projects and Work
 
-### Buhi Bag Company
-As the primary decision-maker, I led strategic planning and operations for **Buhi Bag Company**, guiding product offerings and overall business direction.
+## Macro Excel Models
+Built several macro enabled workbooks for associates at Byram Healthcare to help them wrangle, simplify, and analyze large sets of data
 
 ### Business Idea Screening Tool (Excel)
 A tool developed in Excel to evaluate potential business ideas based on key metrics. It simplifies the decision-making process when exploring new ventures.
