@@ -30,7 +30,7 @@ A tool developed in Excel to evaluate potential business ideas based on key metr
 Collaborated with other interns to create a comprehensive **Internship Guide** for future interns at Oldcastle Infrastructure, improving onboarding and knowledge transfer.
 
 ### Investment Return Model
-Developed a detailed model to calculate the **rate of return** for investments with annual contributions, demonstrating my financial analysis skills.
+Developed a detailed model to calculate the **rate of return** for a variety of portfolio styles and investment goals with annual contributions, demonstrating my financial analysis skills.
 
 ### Informational Interview Outreach
 Initiated networking with professionals in the legal industry through **informational interviews** to pave the way for a future career as corporate counsel.
